@@ -17,6 +17,10 @@ if (num > 10) {
 }else {
     console.log("O numero e menor que 10");
 }
+//Operador Ternário 
+
+let resultado = idade >= 18 ? "Adulto" : "Menor";
+console.log(resultado);
 
 
 //atividade calcular idade
